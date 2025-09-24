@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Booklist",
+      "type": "dart",
+      "program": "lib/main_dev.dart",
+      "request": "launch",
+      "args": [
+        "-t",
+        "lib/main.dart",
+      ]
+    }
+  ]
+}
